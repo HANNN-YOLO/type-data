@@ -1,3 +1,5 @@
+# hanya bisa di jalankan di folder test di file widget_test.dart
+
 # tipe_data
 
 A new Flutter project.
